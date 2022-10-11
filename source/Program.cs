@@ -35,3 +35,14 @@ for (int i = 0; i < index.Length; i++)
     Console.Write($"\"{stringArr[Convert.ToInt32(Convert.ToString(index[i]))]}\"" + tmp);
 }
 Console.WriteLine();
+
+
+// string[] newArr = new string[index.Length];
+// for (int i = 0; i < index.Length; i++)
+// {
+//     newArr[i] = stringArr[Convert.ToInt32(Convert.ToString(index[i]))];
+// }
+// for (int i = 0; i < newArr.Length; i++)
+// {
+//     Console.Write($"{newArr[i]} ");
+// }
