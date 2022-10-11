@@ -1,0 +1,15 @@
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\bin\Debug\net6.0\source.exe
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\bin\Debug\net6.0\source.deps.json
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\bin\Debug\net6.0\source.runtimeconfig.json
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\bin\Debug\net6.0\source.dll
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\bin\Debug\net6.0\source.pdb
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\source.csproj.AssemblyReference.cache
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\source.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\source.AssemblyInfoInputs.cache
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\source.AssemblyInfo.cs
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\source.csproj.CoreCompileInputs.cache
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\source.dll
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\refint\source.dll
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\source.pdb
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\source.genruntimeconfig.cache
+C:\Users\Yurubu\Desktop\FinalnayZadacha\source\obj\Debug\net6.0\ref\source.dll
